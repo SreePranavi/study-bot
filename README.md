@@ -97,27 +97,27 @@ Before generating a response, previous chat history is retrieved and passed to t
 ---
 
 ## 🌍 Deployment (Render)
-![Render Logs](screenshot-5.png)
-![Render Live](screenshot-6.png)
+![Render Logs](Screenshot-5.png)
+![Render Live](Screenshot-6.png)
 
 ---
 
 ## 📡 FastAPI Swagger Testing
-![Swagger Question 1](screenshot-1.png)
-![Swagger Response 1](screenshot-2.png)
-![Swagger Question 2](screenshot-3.png)
-![Swagger Response 2](screenshot-4.png)
+![Swagger Question 1](Screenshot-1.png)
+![Swagger Response 1](Screenshot-2.png)
+![Swagger Question 2](Screenshot-3.png)
+![Swagger Response 2](Screenshot-4.png)
 
 ---
 
 ## 🧠 MongoDB Chat Storage
-![MongoDB 1](screenshot-7.png)
-![MongoDB 2](screenshot-8.png)
+![MongoDB 1](Screenshot-7.png)
+![MongoDB 2](Screenshot-8.png)
 
 ---
 
 ## 💻 Terminal Chat Demo
-![Terminal Chat](screenshot-9.png)
+![Terminal Chat](Screenshot-9.png)
 
 ---
 
